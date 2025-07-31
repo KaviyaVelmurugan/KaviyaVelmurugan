@@ -10,8 +10,9 @@
 
 ## 💡 About Me
 
-- 👩‍💻 Passionate about Cloud Computing, AI/ML and Data Science
-- ☁️ **AWS Certified Cloud Practitioner** with 1 year of hands-on experience
+- 👩‍💻 Passionate about Generative AI, Data Science and Cloud Computing
+- ☁️ **AWS Certified Cloud Practitioner**
+- 🎉 Oracle Certified AI Associate
 - 🧠 Strong foundation in **Python**, **MySQL** and **Linux**
 - 📈 Interested in research & publishing papers — actively building impactful academic projects
 - 🎉 Participated in **AWShe Tech Day 2024** to explore tech innovations
@@ -31,7 +32,7 @@
 ## 📌 Pinned Projects
 
 - 📊 **Career Guidance Website** – A project aimed at helping students choose the right career path  
-- 📁 **MySQL Badge Practice** – Repository of SQL exercises from Oracle University
+- 📁 **Zomato Restaurant Cuisine Analysis** – Analyzing the different cuisines and give the apt one to user.
 
 ---
 
@@ -46,7 +47,7 @@
 
 ## 📚 Currently Learning
 
-- Kubernetes, Git&Github, Generative AI
+- Git&Github, Generative AI
 - Research methodology for publishing IEEE papers
 
 ---
