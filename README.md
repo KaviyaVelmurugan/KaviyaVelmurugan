@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Kaviya Velmurugan
 
-🎓 I’m currently pursuing a **B.Tech in Artificial Intelligence and Data Science** at **St. Joseph’s College of Engineering, Chennai**, with a current CGPA of **8.73** (up to 6th semester).
+🎓 I’m currently pursuing a **B.Tech in Artificial Intelligence and Data Science** at **St. Joseph’s College of Engineering, Chennai**, with a current CGPA of **8.74** (up to 6th semester).
 
 🌍 Based in Chennai, Tamil Nadu, India 
 📧 Reach me at: kashvivelmurugan@example.com  
@@ -13,6 +13,7 @@
 - 👩‍💻 Passionate about Generative AI, Data Science and Cloud Computing
 - ☁️ **AWS Certified Cloud Practitioner**
 - 🎉 Oracle Certified AI Associate
+- 🎉 Oracle Certified Generative AI Professional
 - 🧠 Strong foundation in **Python**, **MySQL** and **Linux**
 - 📈 Interested in research & publishing papers — actively building impactful academic projects
 - 🎉 Participated in **AWShe Tech Day 2024** to explore tech innovations
@@ -25,14 +26,14 @@
 2.AWS
 3.MySQL
 4.Linux
-5.AI
+5.Generative AI
 
 ---
 
 ## 📌 Pinned Projects
 
 - 📊 **Career Guidance Website** – A project aimed at helping students choose the right career path  
-- 📁 **Zomato Restaurant Cuisine Analysis** – Analyzing the different cuisines and give the apt one to user.
+- 📁 **Cervical Cancer Prediction** – Predicting the cancer cells using the static dataset
 
 ---
 
@@ -42,6 +43,7 @@
 - 📜 **AWS Certified Cloud Practitioner**
 - 🎤 **AWShe Tech Day 2024 Participant**
 - 🏅 **Oracle Certified AI Foundations Associate**
+- 🏅 **Oracle Certified Generative AI Professional**
 
 ---
 
