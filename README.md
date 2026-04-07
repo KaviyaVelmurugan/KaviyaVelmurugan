@@ -1,10 +1,10 @@
 # 👋 Hi there, I'm Kaviya Velmurugan
 
-🎓 I’m currently pursuing a **B.Tech in Artificial Intelligence and Data Science** at **St. Joseph’s College of Engineering, Chennai**, with a current CGPA of **8.74** (up to 6th semester).
+🎓 I’m currently pursuing a **B.Tech in Artificial Intelligence and Data Science** at **St. Joseph’s College of Engineering, Chennai**, with a current CGPA of **8.73** (up to 7th semester).
 
 🌍 Based in Chennai, Tamil Nadu, India 
 📧 Reach me at: kashvivelmurugan@example.com  
-🔗 LinkedIn : https://www.linkedin.com/in/kaviya-velmurugan)
+🔗 LinkedIn : (https://www.linkedin.com/in/kaviyavelmurugan04/)
 
 ---
 
@@ -57,5 +57,5 @@
 ## 🤝 Let's Connect!
 
 I'm always excited to collaborate on new ideas and meaningful projects.  
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/kaviya-velmurugan) or email me.
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/kaviyavelmurugan04/) or email me.
 
