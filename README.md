@@ -3,7 +3,7 @@
 🎓 I’m currently pursuing a **B.Tech in Artificial Intelligence and Data Science** at **St. Joseph’s College of Engineering, Chennai**, with a current CGPA of **8.72** (up to 7th semester).
 
 🌍 Based in Chennai, Tamil Nadu, India 
-📧 Reach me at: kashvivelmurugan@example.com  
+📧 Reach me at: kashvivelmurugan@gmail.com  
 🔗 LinkedIn : (https://www.linkedin.com/in/kaviyavelmurugan04/)
 
 ---
