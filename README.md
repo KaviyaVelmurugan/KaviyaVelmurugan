@@ -117,17 +117,15 @@ r=true"/>
 </p>--
 # 🔥 GitHub Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaviyaVelmurugan&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=KaviyaVelmurugan&theme=tokyonight&hide_border=true"/>
 </p>--
 # 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KaviyaVelmurugan&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KaviyaVelmurugan&theme=tokyo-night"/>
 </p>--
 # 🏆 GitHub Trophies
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?
-username=KaviyaVelmurugan&theme=tokyonight&no-frame=true&margin
-w=10"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=KaviyaVelmurugan&theme=tokyonight&no-frame=true&margin-w=10&row=1&column=7"/>
 </p>--
 
 ## 🛠 Currently Working On
