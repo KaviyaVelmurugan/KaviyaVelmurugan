@@ -35,8 +35,8 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
-  <a href="https://kaviyavelmuruganportfolio.lovable.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for the-badge&logo=vercel"/>
+  <a href="https://kaviyavelmuruganportfolio.lovable.app/" target="_blank">
+     <img src="https://img.shields.io/badge/🌍_Visit_My_Portfolio-111111?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Portfolio"/>
   </a>
 
   <a href="mailto:kashvivelmurugan@gmail.com">
