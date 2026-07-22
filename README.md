@@ -125,7 +125,7 @@ r=true"/>
 </p>--
 # 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KaviyaVelmurugan&theme=tokyonight&no-frame=true&margin-w=10&row=1&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=KaviyaVelmurugan&theme=onedark&no-frame=true"/>
 </p>--
 
 ## 🛠 Currently Working On
