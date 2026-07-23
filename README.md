@@ -123,10 +123,6 @@ r=true"/>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KaviyaVelmurugan&theme=tokyo-night"/>
 </p>--
-# 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KaviyaVelmurugan&theme=onedark&no-frame=true"/>
-</p>--
 
 ## 🛠 Currently Working On
 🚀 Building Industrial AI Projects
